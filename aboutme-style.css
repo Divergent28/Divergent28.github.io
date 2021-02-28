@@ -1,0 +1,47 @@
+#body{
+	background-color: #50d07d;
+}
+
+#aboutme{
+	color: lawngreen;
+	font-size: 50px;
+	text-shadow:2px 2px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+
+}
+
+.Neighbors{
+	color: red;
+}
+#intro{
+	background: #f3f4f4;
+	border: 1px solid;
+	margin: 2px;
+}
+.subjects{
+	border: 1px solid;
+	margin-bottom: 5px;
+	padding: 10px;
+	background-color: #f4f4f4;
+	font-family: Arial;
+}
+#myfav{
+	border: 1px solid;
+	margin-bottom: 5px;
+	padding: 10px;
+	background-color: #f4f4f4;
+}
+a{
+	text-decoration: none;
+	color:white;
+	display:inline-block;
+	padding:5px;
+	background-color: lightblue;
+	font-size:1.2em;
+}
+a:hover{
+	text-decoration: underline;
+	background-color: white;
+	color:blue;
+}
